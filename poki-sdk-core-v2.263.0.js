@@ -4913,4 +4913,4 @@
 		var mt = new ht;
 		for (var gt in mt) window.PokiSDK[gt] = mt[gt]
 	})()
-})();/*geometry tryard- sourced from temple-of-boom.github.io- credits from temple of boom in @source.txt*/
+})();/*geometry tryard- sourced from temple-of-boom.github.io- credits from temple of boom in /source.txt*/
